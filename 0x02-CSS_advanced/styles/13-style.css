@@ -49,8 +49,8 @@ h6 {
   font-weight: var(--font-weight-bold);
 }
 
-a:any-link {
-  background-color: var(--text-color);
+a:link {
+  color: var(--text-color);
   text-decoration: none;
 }
 
